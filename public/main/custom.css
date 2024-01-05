@@ -1,0 +1,22 @@
+.input-error{
+    color:red !important;
+}
+.register_form_input_box{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.register_form_input_box{
+    flex-basis: 47%;
+}
+.register_form_input_box_100_basis{
+    flex-basis: 100%!important;
+}
+
+.flex-direction-row{
+    flex-direction: row!important;
+}
+/* .pagination_item {
+    display: none !important;
+} */

@@ -1,0 +1,7 @@
+.pagination_item {
+    display: none !important;
+}
+
+.pagination_active {
+     display: none !important;
+}
